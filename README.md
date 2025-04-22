@@ -2,6 +2,7 @@ Project Overview
 The Fugitive Capture Application is a web application where three cops must capture a fugitive hiding in one of five cities. Each cop selects a city and an electric vehicle based on distance constraints and the system determines if they successfully capture the fugitive.
 
 Setup Guide
+
 Step 1: To set up the Fugitive Game locally, start by cloning the repository using the command git clone https://github.com/meKrishh/fugitive-game.git and navigate into the project directory with cd fugitive-game.
 
 Step 2: Once inside, configure the environment variables by creating a .env.local file in the root directory and adding your MySQL credentials: DB_HOST, DB_USER, DB_PASSWORD, and DB_NAME. Make sure to replace the placeholders with your actual database details.
